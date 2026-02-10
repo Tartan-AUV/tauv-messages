@@ -17,6 +17,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/ThrusterSetpoint.msg"
   "msg/EscTelemetry.msg"
   "msg/Dvl.msg"
+  "msg/Depth.msg"
   # "msg/Pressure.msg"
   # "msg/TargetThrust.msg"
   # "msg/NavigationState.msg"

@@ -15,6 +15,8 @@ find_package(geometry_msgs REQUIRED)
 rosidl_generate_interfaces(${PROJECT_NAME}
   # "msg/WaterlinkedDvlFrame.msg"
   "msg/ThrusterSetpoint.msg"
+  "msg/ThrusterGains.msg"
+  "msg/ThrusterRPM.msg"
   "msg/EscTelemetry.msg"
   "msg/Dvl.msg"
   "msg/Depth.msg"

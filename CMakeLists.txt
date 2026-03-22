@@ -20,6 +20,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/EscTelemetry.msg"
   "msg/Dvl.msg"
   "msg/Depth.msg"
+  "msg/PID.msg"
   
   # "msg/Pressure.msg"
   # "msg/TargetThrust.msg"

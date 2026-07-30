@@ -21,6 +21,9 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/Dvl.msg"
   "msg/Depth.msg"
   "msg/PID.msg"
+  "msg/Status.msg"
+  "msg/ServoTelemetry.msg"
+
   
   # "msg/Pressure.msg"
   # "msg/TargetThrust.msg"
